@@ -25,7 +25,7 @@ export default {
         required: "请输入验证码",
       },
     },
-    otherLoginMethods: "其他登录方式",
+    otherLoginMethods: "-其他登录方式-",
   },
   // 导航栏国际化
   navbar: {
